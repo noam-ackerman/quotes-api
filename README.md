@@ -5,7 +5,7 @@ https://my-qoutes-api.herokuapp.com/qoutes
 
 *i usually integrate api in my project and fetch data with axios ( https://github.com/axios/axios )
 
-made this mock API with - https://github.com/typicode/json-server -package! 
+made this mock API with - https://github.com/typicode/json-server -package! and with the help of a tutorial by Ania Kubów.
 
 In the meanwhile there are only 50 quotes in the data base but I'm planning to add more with time and hopfully to fill it up to hundreds! 
 
