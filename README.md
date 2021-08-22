@@ -1,6 +1,6 @@
 My Quotes API
 
-here is a link to my mock API, feel free to use it-
+here is a URL to my mock API, feel free to use it-
 https://my-qoutes-api.herokuapp.com/qoutes
 
 **i usually integrate api in my project and fetch data with axios ( https://github.com/axios/axios )
