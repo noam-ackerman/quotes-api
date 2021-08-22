@@ -3,7 +3,7 @@ My Quotes API
 here is a URL to my mock API, feel free to use it-
 https://my-qoutes-api.herokuapp.com/qoutes
 
-**i usually integrate api in my project and fetch data with axios ( https://github.com/axios/axios )
+*i usually integrate api in my project and fetch data with axios ( https://github.com/axios/axios )
 
 made this mock API with - https://github.com/typicode/json-server -package! 
 
